@@ -30,4 +30,3 @@ edad = int(input("Ingrese su edad: "))
 print ("Tienes", edad, "años ")
 saldo = float(input("Cual es su saldo: "))
 print ("Su saldo es:", saldo, "$")
-
