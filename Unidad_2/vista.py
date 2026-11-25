@@ -1,4 +1,4 @@
-class VistaLicencia:
+class Vista_Licencia:
     def mostrar_menu(self):
         print("Ejercicio 26")
         print("MENU")

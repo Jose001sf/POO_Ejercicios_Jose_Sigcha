@@ -6,10 +6,6 @@ class Licencia:
         self.cantidad = cantidad
 
     def asignar(self, cantidad):
-        if cantidad <= 0:
-            raise ValueError("La cantidad debe ser mayor que cero")
-        if cantidad > self.cantidad:
-            raise ValueError("No hay suficientes licencias")
         self.cantidad = self.cantidad - cantidad
         return True
 
@@ -17,7 +13,7 @@ class Licencia:
         return f"{self.codigo}{self.software}{self.precio}{self.cantidad}"
 
 
-class GestorLicencias:
+class Modelo_Licencia:
     def __init__(self):
         self.lista = [
             Licencia(1, "Office", 70.00, 30),
@@ -34,4 +30,7 @@ class GestorLicencias:
         for elemento in self.lista:
             if elemento.codigo == codigo:
                 return elemento
-        return None
+        return 
+    
+    def lista(self):
+        return self.lista
