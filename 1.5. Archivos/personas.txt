@@ -1,0 +1,5 @@
+nombre: Jose5
+apellido5: Sigcha5
+cedula5: 01073323555
+direccion: Tarqui5
+correo: jose@mail.com5

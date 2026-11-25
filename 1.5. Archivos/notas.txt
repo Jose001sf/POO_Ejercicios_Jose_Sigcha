@@ -1,3 +1,5 @@
 Ana,9.5
 Luis,7.0
 María,8.25
+Jose,7.25
+Sofia,9.99

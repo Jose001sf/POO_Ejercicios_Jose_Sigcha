@@ -1,0 +1,5 @@
+nombre:Jose, 
+apellido:Sigcha, 
+cedula:0107332355, 
+direccion:Tarqui, 
+correo:jose@mail.com, 

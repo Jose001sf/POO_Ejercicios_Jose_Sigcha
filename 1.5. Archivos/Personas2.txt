@@ -1,0 +1,52 @@
+Persona 1
+nombre:Jose1
+Apellido:Sigcha1
+Cedula:01073323551
+Telefono:09850672321
+
+Persona 2
+nombre:Jose2
+Apellido:Sigcha2
+Cedula:01073323552
+Telefono:09850672322
+
+Persona 3
+nombre:Jose3
+Apellido:Sigcha3
+Cedula:01073323553
+Telefono:09850672323
+
+Persona 4
+nombre:Jose4
+Apellido:Sigcha4
+Cedula:01073323554
+Telefono:09850672324
+
+Persona 5
+nombre:Jose5
+Apellido:Sigcha5
+Cedula:01073323555
+Telefono:09850672325
+
+
+
+
+
+
+
+
+
+
+
+Persona 6
+nombre:Jose6
+Apellido6:Sigcha6
+Cedula:01073323556
+Telefono:09850672326
+
+Persona 6
+nombre:Jose6
+Apellido6:Sigcha6
+Cedula:01073323556
+Telefono:09850672326
+
